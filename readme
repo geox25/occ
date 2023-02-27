@@ -1,8 +1,0 @@
-Generic Compiler Tools
-----------------------
-
-- Made in C++
-
-- Provides the basic foundation for creating a simple compiler,
-including functions for text manipulation to avoid rewriting
-code
